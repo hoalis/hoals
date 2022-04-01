@@ -1,8 +1,5 @@
-# alist-heroku-postgresql
-
-
 ## Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/hoalis/hoals)
 
 Use heroku's add-on postgres database, your settings will be persistent, don't worry about hibernate losing configuration.
 
